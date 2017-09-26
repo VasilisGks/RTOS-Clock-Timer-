@@ -1,4 +1,4 @@
-# RTOS-Clock-Timer-
+# RTOS-Clock-Timer- Code in usr/sample
 <br>Tested in x86 Debian
 <br>Download Prex RTOS (https://sourceforge.net/projects/prex/files/)
 <br>Using gcc http://archive.debian.org/debian/pool/main/g/gcc-4.1/
